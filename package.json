@@ -1,0 +1,13 @@
+{
+  "name": "FSEchatroom",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "node-redis": "^0.1.7",
+    "pug": "^2.0.0-beta6",
+    "socket.io": "^1.7.2",
+    "underscore": "^1.8.3"
+  }
+}
